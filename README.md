@@ -1,5 +1,5 @@
 # icodethis-img-assets
-Custom illustrations and media for my iCodeThis projects. Copyrighted to Jo_WithVision. 
+Custom illustrations and media for my iCodeThis projects. Copyrighted to Jo_WithVision/Jo_Coding. 
 
 ## Copyright Notice  
 
